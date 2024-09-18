@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Visualize React Memoization
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This mini-project is a way to visualize React updates in a component tree. Read the full article posted here. 
 
 ## Available Scripts
 
